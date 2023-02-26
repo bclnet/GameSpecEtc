@@ -1,0 +1,15 @@
+[submodule "AC/ACViewer"]
+	path = AC/ACViewer
+	url = git@github.com:ACEmulator/ACViewer.git
+[submodule "Cry/unp4k"]
+	path = Cry/unp4k
+	url = git@github.com:dolkensp/unp4k.git
+[submodule "Cry/Cryengine-Converter"]
+	path = Cry/Cryengine-Converter
+	url = git@github.com:Markemp/Cryengine-Converter.git
+[submodule "Unity/UABE"]
+	path = Unity/UABE
+	url = git@github.com:SeriousCache/UABE.git
+[submodule "Valve/ValveResourceFormat"]
+	path = Valve/ValveResourceFormat
+	url = git@github.com:SteamDatabase/ValveResourceFormat.git
