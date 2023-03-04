@@ -13,3 +13,6 @@
 [submodule "Valve/ValveResourceFormat"]
 	path = Valve/ValveResourceFormat
 	url = git@github.com:SteamDatabase/ValveResourceFormat.git
+[submodule "Tes/nifskope"]
+	path = Tes/nifskope
+	url = git@github.com:niftools/nifskope.git
